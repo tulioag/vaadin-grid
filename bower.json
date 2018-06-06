@@ -62,6 +62,7 @@
     "vaadin-checkbox": "^2.0.0",
     "vaadin-text-field": "^2.0.0",
     "vaadin-lumo-styles": "vaadin/vaadin-lumo-styles#^1.0.0",
+    "vaadin-material-styles": "vaadin/vaadin-material-styles#md-element",
     "vaadin-element-mixin": "vaadin/vaadin-element-mixin#^1.0.1"
   },
   "resolutions": {
